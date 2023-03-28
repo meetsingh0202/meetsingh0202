@@ -33,11 +33,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meetsingh0202&" alt="meetsingh0202" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meetsingh0202&show_icons=true&locale=en" alt="meetsingh0202" /></p>
-
-</p>
-
