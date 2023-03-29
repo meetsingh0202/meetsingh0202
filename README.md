@@ -35,5 +35,5 @@
 
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meetsingh0202&" alt="meetsingh0202" width = "390" height = "250"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=meetsingh0202&show_icons=true&locale=en" alt="meetsingh0202" width = "390" height = "250"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=meetsingh0202&show_icons=true&locale=en" alt="meetsingh0202" width = "390" height = "240"/>
 </p>
