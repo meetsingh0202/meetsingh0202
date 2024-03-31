@@ -1,9 +1,4 @@
 <!-- ![MasterHead] -->
-<div align="center">
-  <a href="">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1) -->
 <h1 align="center">Hi 👋, I'm Meet Singh</h1>
