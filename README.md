@@ -20,7 +20,6 @@
 <a href="stopstalk.com/user/profile/meetsingh0202" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="stopstalk.com/user/profile/meetsingh0202" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/meetsingh0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/meetsingh0202" height="30" width="40" /></a>
 <a href="https://leetcode.com/meetsingh0202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/meetsingh0202/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/meetsingh214" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="https://www.codechef.com/users/meetsingh214" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/meetsingh0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/meetsingh0202" height="30" width="40" /></a>
 </p>
 
